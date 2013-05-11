@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Auth Checker", "AuthChecker\Auth Checker.csproj", "{414EDA72-C142-4FEE-8A3D-EECA0C14DD6B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoAngler", "AutoAngler\AutoAngler.csproj", "{A1759A9F-89B9-406E-9B5A-7EC14ABC8338}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelperLib", "HelperLib\HelperLib.csproj", "{43E9B743-C4AA-42BA-B5D3-ECB11B6AC4B2}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uservoice_Autovote", "Uservoice_autovote\Uservoice_Autovote.csproj", "{A4A21DFB-9D76-454C-95F6-96F83B538890}"
@@ -37,18 +35,6 @@ Global
 		{414EDA72-C142-4FEE-8A3D-EECA0C14DD6B}.Release|Mixed Platforms.Build.0 = Release|x86
 		{414EDA72-C142-4FEE-8A3D-EECA0C14DD6B}.Release|x86.ActiveCfg = Release|x86
 		{414EDA72-C142-4FEE-8A3D-EECA0C14DD6B}.Release|x86.Build.0 = Release|x86
-		{A1759A9F-89B9-406E-9B5A-7EC14ABC8338}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A1759A9F-89B9-406E-9B5A-7EC14ABC8338}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A1759A9F-89B9-406E-9B5A-7EC14ABC8338}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
-		{A1759A9F-89B9-406E-9B5A-7EC14ABC8338}.Debug|x86.ActiveCfg = Debug|Any CPU
-		{A1759A9F-89B9-406E-9B5A-7EC14ABC8338}.Dll|Any CPU.ActiveCfg = Debug|Any CPU
-		{A1759A9F-89B9-406E-9B5A-7EC14ABC8338}.Dll|Any CPU.Build.0 = Debug|Any CPU
-		{A1759A9F-89B9-406E-9B5A-7EC14ABC8338}.Dll|Mixed Platforms.ActiveCfg = Debug|Any CPU
-		{A1759A9F-89B9-406E-9B5A-7EC14ABC8338}.Dll|x86.ActiveCfg = Debug|Any CPU
-		{A1759A9F-89B9-406E-9B5A-7EC14ABC8338}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A1759A9F-89B9-406E-9B5A-7EC14ABC8338}.Release|Any CPU.Build.0 = Release|Any CPU
-		{A1759A9F-89B9-406E-9B5A-7EC14ABC8338}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
-		{A1759A9F-89B9-406E-9B5A-7EC14ABC8338}.Release|x86.ActiveCfg = Release|Any CPU
 		{43E9B743-C4AA-42BA-B5D3-ECB11B6AC4B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{43E9B743-C4AA-42BA-B5D3-ECB11B6AC4B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{43E9B743-C4AA-42BA-B5D3-ECB11B6AC4B2}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
