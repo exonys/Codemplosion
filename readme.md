@@ -1,6 +1,6 @@
-CODEMPLOSION starz's stuff
+CODEMPLOSION stuff
 ---------
-Have **alot** of fun and **learn alot**
+Have fun
 
 Visit [our forums][forumlink]
 
