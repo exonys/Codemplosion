@@ -39,7 +39,7 @@ namespace CODEMPLOSION
             PingReply pingreply = ping.Send("94.174.242.69");
             if (pingreply != null && pingreply.Status.ToString() != "Success")
             {
-                Console.WriteLine(pingreply.Status);
+                Console.WriteLine("Ping: " + pingreply.Status);
                 Console.WriteLine("Ping: Can't ping server");
                 Console.WriteLine("Ping: Server may be offline");
             }
